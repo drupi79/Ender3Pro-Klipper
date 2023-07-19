@@ -9,10 +9,6 @@ me yet across multiple printers to get it dialed in 90% and then do small change
 
 Some things to note:
 
-•	I am running Linear Rails on my X, Y, and Z axis' so my speeds may be too fast for your setup.
-
-•	I am using a 3:1 direct drive extruder so be sure to configure your own e-steps. 
-
 •	I replaced my bed springs with urethane bed mounts. I suggest using the Screws Tilt Calculate command to level your own bed. 
 
 •	Make sure you go through your printer and tighten everything down before you run any kind of 
